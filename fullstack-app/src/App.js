@@ -10,6 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello Auto Deployed On Commit!</h1>
+        <p>Graduation Season</p>
       </header>
     </div>
   );
